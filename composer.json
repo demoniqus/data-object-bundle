@@ -16,11 +16,14 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "doctrine/doctrine-bundle": "^2.14",
+        "nelmio/api-doc-bundle": "^5.3",
+        "symfony/asset": ">=5.4",
         "symfony/console": "7.3.*",
         "symfony/dotenv": "7.3.*",
         "symfony/flex": "^2",
         "symfony/framework-bundle": "7.3.*",
         "symfony/runtime": "7.3.*",
+        "symfony/twig-bundle": ">=5.4",
         "symfony/yaml": "7.3.*"
     },
     "config": {
