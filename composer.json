@@ -5,6 +5,7 @@
     "license": "proprietary",
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "description": "this is description test",
     "authors": [
         {
             "name": "Antipov Dmtriy",
